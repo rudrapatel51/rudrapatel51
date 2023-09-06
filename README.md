@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTnVJAlHxuFoOHZ4GtWeK9F7neGT4FOgeHw&usqp=CAU)
+<img align="center" alt ="coding" width ="2000" height="300" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <h1 align="center">Hi 👋, I'm Rudra patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt ="coding" width ="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
