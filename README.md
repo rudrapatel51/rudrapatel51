@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **cyber security course.**
 
-- 💬 Ask me about **android,coding.**
+- 💬 Ask me about **coding.**
 
 - 📫 How to reach me **rudrapokar5105@gmail.com**
 
